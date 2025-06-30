@@ -8,7 +8,7 @@ Features
 ✅ Displays connection status
 ✅ Clean code structure for learning socket programming
 
-Screenshots
+Screenshot output
 ![Screenshot 2025-06-30 202136](https://github.com/user-attachments/assets/d9bcc877-59f6-4ba6-a5e5-43d59c02957f)
 
 Technologies Used
